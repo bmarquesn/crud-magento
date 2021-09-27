@@ -1,0 +1,1 @@
+<?php echo "Hello Magento 2"; ?>
