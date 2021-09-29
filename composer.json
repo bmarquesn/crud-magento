@@ -62,6 +62,7 @@
         "league/flysystem": "^2.0",
         "league/flysystem-aws-s3-v3": "^2.0",
         "magento/composer": "1.7.0",
+        "magento/composer-dependency-version-audit-plugin": "~0.1",
         "magento/magento-composer-installer": ">=0.1.11",
         "magento/zendframework1": "~1.14.2",
         "monolog/monolog": "^2.3",
@@ -74,11 +75,11 @@
         "symfony/event-dispatcher": "~4.4.0",
         "symfony/process": "~4.4.0",
         "tedivm/jshrink": "~1.4.0",
+        "tiagosampaio/zpay-magento2": "dev-master",
         "tubalmartin/cssmin": "4.1.1",
         "web-token/jwt-framework": "^v2.2.7",
         "webonyx/graphql-php": "~14.9.0",
-        "wikimedia/less.php": "^3.0.0",
-        "magento/composer-dependency-version-audit-plugin": "~0.1"
+        "wikimedia/less.php": "^3.0.0"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "~1.4",
